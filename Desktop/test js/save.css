@@ -1,0 +1,107 @@
+body {
+    background-image: linear-gradient(to right, rgb(141, 250, 245), rgb(231, 170, 250));
+}
+
+img {
+    padding-right: 0px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    margin: 1px;
+    transition: all 10s;
+}
+
+
+/* button {
+    position: absolute;
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+} */
+
+.btn2-modal {
+    margin: 2px;
+    padding: 11px;
+    background-color: rgb(246, 212, 212);
+    border-radius: 8px;
+    transition: all 1s
+}
+
+.btn2-modal:hover {
+    background: rgb(0, 128, 255)
+}
+
+.btn3 {
+    margin: 4px;
+    padding: 12px;
+    background-color: rgb(246, 212, 212);
+    border-radius: 8px;
+    /* transition: all 1s */
+    transition: 0.5s;
+}
+
+.btn3:hover {
+    background: rgb(0, 128, 255)
+}
+
+.btn4 {
+    text-align: center;
+    margin: 7px;
+    padding: 10px;
+    background-color: rgb(246, 212, 212);
+    border-radius: 8px;
+    transition: all 1s
+}
+
+.btn4:hover {
+    background: rgb(0, 128, 255)
+}
+
+.btn5 {
+    margin: 7px;
+    padding: 10px;
+    background-color: rgb(246, 212, 212);
+    border-radius: 8px;
+    transition: all 1s
+}
+
+.btn5:hover {
+    background: rgb(0, 128, 255)
+}
+
+nav {
+    display: flex;
+    background-color: rgb(246, 212, 212);
+    text-align: center;
+    transition: all 2s;
+}
+
+.text1 {
+    border-top: 1px solid;
+    /* display: none; */
+}
+
+.modal {
+    width: 110px;
+    height: 110px;
+    overflow: scroll;
+    display: none;
+}
+
+.buton {
+    width: 1000px;
+    height: 0px;
+    text-align: center;
+    margin: 350px;
+    padding: 30px;
+    background-color: rgb(246, 212, 212);
+    border-radius: 8px;
+    transition: all 1s
+}
+
+div.modal {
+    background-color: lightblue;
+    width: 110px;
+    height: 110px;
+    overflow: scroll;
+}

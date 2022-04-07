@@ -1,0 +1,123 @@
+* {
+    padding: 0px
+}
+
+nav {
+    display: flex;
+}
+
+.btn4 {
+    margin: 15px;
+    font-size: 1, 5rem;
+    background-color: rgb(125, 245, 223);
+    padding: 0.1rem 1rem;
+    margin: 0, 9em 0rem;
+    letter-spacing: 6px;
+    text-align: left;
+    transition: 2s;
+    border: solid 1.5px;
+}
+
+.fa-discord {
+    font-size: 1rem;
+    background-color: rgb(234, 32, 5);
+    padding: 0.1rem 2rem;
+    margin: 0, 9em 10rem;
+    text-align: left;
+    border: solid 1px;
+}
+
+.fa-discord1 {
+    font-size: 1, 5rem;
+    background-color: rgb(198, 163, 239);
+    padding: 0.1rem 1rem;
+    margin: 1em 5rem;
+    letter-spacing: 6px;
+    text-align: left;
+    border: solid 1.5px;
+    transition: 0.5s;
+    border-radius: 6px;
+    font-family: fantasy;
+}
+
+.modal {
+    border-radius: 1rem;
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-top: 3px solid rgb(222, 20, 20);
+    font-family: fantasy;
+}
+
+th,
+td {
+    padding: 5px 2px;
+    border: 1px solid #000;
+    border-top: 3px solid rgb(20, 2, 2);
+    font-family: fantasy;
+}
+
+u {
+    text-align: left;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(245, 147, 199), rgb(173, 238, 216));
+}
+
+.tab-modal {
+    margin: 15px;
+    font-size: 1, 5rem;
+    background-color: rgb(125, 245, 223);
+    padding: 0.1rem 1rem;
+    margin: 0, 9em 0rem;
+    letter-spacing: 6px;
+    text-align: left;
+    transition: 2s;
+    border: solid 1.5px;
+}
+
+.tab-modal:hover {
+    background: rgb(0, 128, 255)
+}
+
+.hidden {
+    display: none;
+}
+
+.tab2 {
+    border-radius: 1rem;
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border-spacing: 1;
+    border-top: 3px solid rgb(222, 20, 20);
+}
+
+th,
+td {
+    padding: 10px 20px;
+    border: 1px solid #000;
+    border-top: 1px solid rgb(20, 2, 2);
+}
+
+u {
+    text-align: left;
+}
+
+
+/* .tab2 {
+    display: none;
+} */
+
+.imagine {
+    top: 50%;
+    width: 850px;
+    height: 900px;
+}
+
+div.ex1 {
+    background-color: lightblue;
+    width: 110px;
+    height: 110px;
+    overflow: scroll;
+}
