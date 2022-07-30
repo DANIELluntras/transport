@@ -15,6 +15,7 @@ console.log(arr)
 arr.splice(1, 2)
 console.log(arr);
 
+
 //reverse
 arr = ['d', 'a', 'n', 'i', 'e', 'l'];
 const arr2 = ['l', 'u', 'n', 't', 'r', 'a', 's '];
